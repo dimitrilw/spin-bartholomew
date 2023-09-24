@@ -1,12 +1,12 @@
-title = "Your Site Name"
-# logo = "URL to logo"
+title = "some test site"
+logo = "https://images.pexels.com/photos/15968722/pexels-photo-15968722/free-photo-of-cute-fluffy-bunny.jpeg"
 base_url = "http://localhost:3000"
-about = "This site is generated with Bartholomew, the WebAssembly micro-CMS. And this message is in site.toml."
+about = "This site is generated with Bartholomew, the WebAssembly micro-CMS. And this message is in site.toml, which I just edited."
 index_site_pages = ["blog"]
 
 [extra]
-copyright = "The Site Authors"
-github = "https://github.com/fermyon"
-twitter = "https://twitter.com/fermyontech"
+copyright = "some guy"
+github = "https://github.com/dimitrilw"
+# twitter = "https://twitter.com/fermyontech"
 
 date_style = "%B %e, %Y"
